@@ -1,0 +1,55 @@
+.pink-text {
+    color: pink;
+
+}
+
+#greycol {
+    color: grey;
+}
+
+
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+.container .monday li {
+    background-color: #ffd3d3;
+
+}
+
+.container .tuesday li {
+    background-color: #5100ff;
+
+}
+
+.container .wednesday li {
+    background-color: #15ff00;
+
+}
+
+.container .thursday li {
+    background-color: #ff0000;
+
+}
+
+.container .friday li {
+    background-color: #fffb00;
+
+}
+
+.day {
+    font-size: 20px;
+}
+
+li:hover {
+    color: #ffffff;
+    font-size: 20px;
+}
